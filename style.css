@@ -1,0 +1,32 @@
+th, td {
+  border: 1px solid;
+  border-color: #b0aeaeca;
+  border-collapse: collapse;
+  padding: 3px;
+
+}
+.Table{
+  background-image: radial-gradient(circle at 12.5% 5.31%, #dca1d3 0, #e29fcc 7.14%, #e89ec5 14.29%, #ec9cbd 21.43%, #ef9cb5 28.57%, #f19cad 35.71%, #f29ca5 42.86%, #f29d9d 50%, #f19e96 57.14%, #efa08f 64.29%, #eca288 71.43%, #e8a483 78.57%, #e3a77e 85.71%, #ddaa7a 92.86%, #d7ac77 100%);
+  border-radius: 7px;
+  border: 1px solid;
+  border-color: #b0aeaeca;
+  box-shadow: 14px 15px 33px 5px rgba(34, 60, 80, 0.2);
+}
+.name{
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+.yname{
+  border-radius: 4px;
+}
+.inst{
+  border-radius: 7px;
+}
+.but2{
+  border-radius: 4px;
+  box-shadow: 14px 18px 36px -4px rgba(111, 123, 133, 0.2);
+}
+.but1{
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+}
